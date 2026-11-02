@@ -1,17 +1,8 @@
-# untitled1
+# flutter login/signup page
+
 
 A new Flutter project.
 
-## Getting Started
+<img width="454" height="879" alt="image" src="https://github.com/user-attachments/assets/715ec1b1-c1c0-49c0-ba25-8e285a49a93a" />
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="434" height="840" alt="image" src="https://github.com/user-attachments/assets/3c3946ec-9a6e-4452-8ae3-8661942b6655" />
